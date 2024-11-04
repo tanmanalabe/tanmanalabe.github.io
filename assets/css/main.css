@@ -1703,3 +1703,5 @@ input, select, textarea {
 			#intro a {border:0!important; opacity: 0.9; font-style: italic;}
 			
 			#intro a:hover {opacity: 1;}
+			#profile-id {margin-bottom: 20px;}
+			#profile-id .icon {font-size: 25px;}

@@ -1694,7 +1694,7 @@ input, select, textarea {
 			}
 
 			.profile {display: flex; justify-content: center; gap: 20px; flex-direction: column; align-items: center;}
-			.profile-img {width: 45%;}
+			.profile-img {width:40%;}
 			.profile-img img {width: 100%; border-radius: 50%;}
 
 			.profile-content {display: flex;  gap: 10px;}
